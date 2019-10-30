@@ -1,0 +1,13 @@
+.MenuItem {
+    text-decoration: none;
+    text-align: center;
+    width: 68px;
+    text-shadow: 0 0 3px #ffffff, 0 0 5px #ffa2a2;
+    color: #000000;
+    border: 1px dashed white;
+    border-radius: 5px;
+    padding: 5px;
+    font-family: monospace;
+    background-image: url("https://media.istockphoto.com/photos/natural-marble-texture-with-high-resolution-for-background-and-design-picture-id1023967058?k=6&m=1023967058&s=170667a&w=0&h=2tPl-W9AkCq4NUKEB7Th-YCXXZxn5nTovQsNNat-n_g=");
+    mix-blend-mode: luminosity;
+}

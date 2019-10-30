@@ -1,0 +1,9 @@
+.SideBar {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 150px;
+    height: 90vh;
+    background-image: url("https://media.istockphoto.com/photos/natural-marble-texture-with-high-resolution-for-background-and-design-picture-id1023967058?k=6&m=1023967058&s=170667a&w=0&h=2tPl-W9AkCq4NUKEB7Th-YCXXZxn5nTovQsNNat-n_g=");
+}

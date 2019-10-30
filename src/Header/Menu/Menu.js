@@ -1,17 +1,16 @@
 import React from 'react';
-import MenuItem from "./MenuItem";
+import MenuItem from "./MenuItem/MenuItem";
 import './Menu.css';
 
 
 class Menu extends React.Component {
     render () {
-        console.log(this.props);
         return (
             <nav className="Menu">
-                <MenuItem url="www.google.co.il">Item1</MenuItem>
-                <MenuItem url="www.google.co.il">Item1</MenuItem>
-                <MenuItem url="www.google.co.il">Item1</MenuItem>
-                <MenuItem url="www.google.co.il">Item1</MenuItem>
+                <MenuItem url="https://www.google.co.il/">Google</MenuItem>
+                <MenuItem url="https://www.facebook.com/">Facebook</MenuItem>
+                <MenuItem url="https://www.instagram.com/">Instagram</MenuItem>
+                <MenuItem url="https://www.youtube.com/">YouTube</MenuItem>
             </nav>
         );
     }

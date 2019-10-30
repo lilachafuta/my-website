@@ -1,12 +1,20 @@
 .Header {
-    background: lightcyan;
-    color: darkslategray;
+    background: #ffb6ae;
+    color: #ffffff;
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    text-align: center;
 }
 
 .Header h1 {
-    margin:0;
+    position: relative;
+    top: 5%;
+    margin: 0 0 5px 10px;
+    font-family: Cursive, Arial, serif;
+    text-shadow: 1px 1px 2px #000000, 0 0 1em #ff3763, 0 0 0.2em #ff98a4;
+
 }
 
 

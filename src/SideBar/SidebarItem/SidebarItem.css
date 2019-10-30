@@ -1,0 +1,13 @@
+.SidebarItem {
+    text-decoration: none;
+    margin-top: 50px;
+    width:100px;
+    height: 40px;
+    color: #ffb6ae;
+    text-align: center;
+    mix-blend-mode: multiply;
+    background-size: cover;
+    font-size: 20px;
+    font-family: Impact;
+    text-shadow:  1px 1px black;
+}
